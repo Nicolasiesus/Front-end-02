@@ -1,0 +1,25 @@
+table {
+    border-style: inset;
+    width: 22cm;
+}
+#Nmport {
+    text-align: center;
+}
+p {
+    font-size: large;
+}
+li {
+    font-size: large;
+}
+h1 {
+    font-size: xx-large;
+}
+h2 {
+    font-size: x-large;
+}
+h3 {
+    font-size: x-large;
+}
+footer {
+    text-align: center;
+}
